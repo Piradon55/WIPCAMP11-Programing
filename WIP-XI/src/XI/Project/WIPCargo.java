@@ -12,9 +12,9 @@ import java.util.Scanner;
 public class WIPCargo {
 
     public static void main(String[] args) {
-        int item = 6;
+        int item = 5;
         int limit = 10;
-        System.out.println("item: " + item + ",limit:" + limit);
+        System.out.println("item: " + item + ",limit: " + limit);
 
         Scanner input = new Scanner(System.in);
 
